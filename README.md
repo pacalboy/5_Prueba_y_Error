@@ -1,4 +1,4 @@
-# 5_Prueba_y_error
+# 5_Prueba_y_Error
 Depuración y excepciones.
 
 ## Depuración 
