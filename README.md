@@ -16,11 +16,11 @@ Siguiendo el código realiza los siguientes ejercicios:
 2. Hacer que en tiempo de ejecución se imprima "Número 3". Haz captura delas variables antes de imprimir el mensaje por consola.
 
 ## Excepciones
-**ExcepcionesEjemplo**  
+**Excepciones_Ejemplo**  
 Ejemplo de clase para ver cómo funcionan las excepciones.
 
 
-**ExcepcionesEjercicios**
+**Excepciones_Ejercicios**
 
 0. Nuestro programa va a calcular el cociente de 36 entre un número que introduzca el usuario. Lee un denominador por teclado, gestionando todas las excepciones posibles.  
   
