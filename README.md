@@ -7,7 +7,7 @@ Depuración y excepciones.
 
 Código de ejemplo para probar la depuración siguiendo este [tutorial](http://puntocomnoesunlenguaje.blogspot.com/2014/11/netbeans-debugger-java.html) para NetBeans.
 
-**Depuración_Ejercicios**
+**Depuración_Ejercicios**  
 Siguiendo el código realiza los siguientes ejercicios:  
 
 0.  Introduce los valores 6 y 10. En tiempo de ejecución sustituye el primer número por el valor 0 antes de entrar en el bucle for. Además, durante el bucle, tras generar el valor 4, provoca un cambio en la variable i y ponla con el valor 8. Continúa la ejecución hasta el final. El resultado debe ser "012389" Crea un punto de ruptura condicional para cuando la variable i tenga el valor 9. Haz captura de las variables en ese instante.
@@ -28,20 +28,20 @@ Ejemplo de clase para ver cómo funcionan las excepciones.
   
 1. Preguntas de ejercicios para practicar teoría: [preguntas de teoría](https://www.unirioja.es/cu/jearansa/0910/archivos/Ejercicios05.pdf)  
 
-![](/Excepciones/ExcepcionesEjercicios/Excepciones.png)  
+![](/Excepciones/Excepciones_Ejercicios/Excepciones.png)  
 
   
 2. ¿Cuál es el resultado de ejecución de los siguientes programas?  
 
 ExcepcionesUNO  
 
-![](/Excepciones/ExcepcionesEjercicios/ExcepcionesUNO.png)  
+![](/Excepciones/Excepciones_Ejercicios/ExcepcionesUNO.png)  
 ExcepcionesDOS?    
 
- ![](/Excepciones/ExcepcionesEjercicios/ExcepcionesDOS.png)
+ ![](/Excepciones/Excepciones_Ejercicios/ExcepcionesDOS.png)
   
 3. Ejercicio adjunto en PDF Carnet Por Puntos. La solución está en internet pero intentadlo sin mirarlas.  
-![](/Excepciones/ExcepcionesEjercicios/carnetPuntos.pdf)
+![](/Excepciones/Excepciones_Ejercicios/carnetPuntos.pdf)
 
 
 ~~~
