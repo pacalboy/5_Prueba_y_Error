@@ -3,7 +3,7 @@ Depuración y excepciones.
 
 ## Depuración 
 
-**Depuración_Ejemplo**
+**Depuración_Ejemplo**  
 Código de ejemplo para probar la depuración siguiendo este [tutorial](http://puntocomnoesunlenguaje.blogspot.com/2014/11/netbeans-debugger-java.html) para NetBeans.
 
 **Depuración_Ejercicios**  
@@ -16,7 +16,7 @@ Siguiendo el código realiza los siguientes ejercicios:
 2. Hacer que en tiempo de ejecución se imprima "Número 3". Haz captura delas variables antes de imprimir el mensaje por consola.
 
 ## Excepciones
-**ExcepcionesEjemplo**
+**ExcepcionesEjemplo**  
 Ejemplo de clase para ver cómo funcionan las excepciones.
 
 
