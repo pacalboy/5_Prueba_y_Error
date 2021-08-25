@@ -1,0 +1,10 @@
+Valor al final del try: 44
+Valor al final de finally: 45
+Valor antes del return: 46
+46
+
+
+Valor al final del catch: 43
+Valor al final del finally: 44
+Valor antes del return: 45
+45
