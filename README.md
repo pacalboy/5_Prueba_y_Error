@@ -4,7 +4,6 @@ Depuración y excepciones.
 ## Depuración 
 
 **Depuración_Ejemplo**
-
 Código de ejemplo para probar la depuración siguiendo este [tutorial](http://puntocomnoesunlenguaje.blogspot.com/2014/11/netbeans-debugger-java.html) para NetBeans.
 
 **Depuración_Ejercicios**  
@@ -18,7 +17,6 @@ Siguiendo el código realiza los siguientes ejercicios:
 
 ## Excepciones
 **ExcepcionesEjemplo**
-
 Ejemplo de clase para ver cómo funcionan las excepciones.
 
 
@@ -32,13 +30,13 @@ Ejemplo de clase para ver cómo funcionan las excepciones.
 
   
 2. ¿Cuál es el resultado de ejecución de los siguientes programas?  
-
 ExcepcionesUNO  
 
-![](/Excepciones/Excepciones_Ejercicios/ExcepcionesUNO.png)  
+![](/Excepciones/Excepciones_Ejercicios/ExcepcionesUNO.png) 
+  
 ExcepcionesDOS?    
 
- ![](/Excepciones/Excepciones_Ejercicios/ExcepcionesDOS.png)
+![](/Excepciones/Excepciones_Ejercicios/ExcepcionesDOS.png)
   
 3. Ejercicio adjunto en PDF Carnet Por Puntos. La solución está en internet pero intentadlo sin mirarlas.  
 ![](/Excepciones/Excepciones_Ejercicios/carnetPuntos.pdf)
